@@ -18,6 +18,6 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ahmed-mohamed-72827019a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:ahmedmohamed.developer1997@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/ahmed-mohamed-72827019a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahmed%20Mohamed-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:ahmedmohamed.developer1997@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ahmedmohamed.developer1997@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
