@@ -9,10 +9,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | PHP | Laravel | Vue.js
+- 🌐 &nbsp; PHP | Laravel 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Vue.js (basics)
 - 🛢 &nbsp; MySQL 
 - 🔧 &nbsp; Git | Markdown 
-- 🌐 &nbsp; Laravel 
 - 🔧 &nbsp; TDD
 - 🖥 &nbsp; Linux| Windows 
 - 🔧 &nbsp; Docker
